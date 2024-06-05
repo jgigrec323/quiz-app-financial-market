@@ -558,4 +558,206 @@ export const questions = [
       "Fairness",
     ],
   },
+  {
+    question: "What does the term 'democratization of finance' mean?",
+    correctAnswer:
+      "It should benefit real people; everyone, not just the rich.",
+    propositions: [
+      "It should benefit the youngest people; not the old.",
+      "It should benefit the oldest people; not the young.",
+      "It should benefit rich people; not the poor.",
+      "It should benefit real people; everyone, not just the rich.",
+    ],
+  },
+  {
+    question: "What is 'odious' debt?",
+    correctAnswer:
+      "Illegitimate debt raised by government, used for ill purposes against the will of the people.",
+    propositions: [
+      "Standard debt raised by corporations, to create new products.",
+      "Illegitimate debt raised by corporations.",
+      "Illegitimate debt raised by government, used for ill purposes against the will of the people.",
+      "Standard debt raised by government.",
+    ],
+  },
+  {
+    question: "Malthus contended that:",
+    correctAnswer:
+      "Human population can grow faster than humans can produce commensurate amounts of food.",
+    propositions: [
+      "Poverty causes resource depletion rather than the reverse.",
+      "All of the above.",
+      "By providing additional workers human population growth enhanced economic development.",
+      "Human population can grow faster than humans can produce commensurate amounts of food.",
+    ],
+  },
+  {
+    question:
+      "Malthus contended that population, when unchecked, increased in a ______ ratio; and subsistence for man in an _______ ratio.",
+    correctAnswer: "Geometrical; arithmetical",
+    propositions: [
+      "Linear; geometrical",
+      "Geometrical; arithmetical",
+      "Arithmetical; linear",
+      "Arithmetical; geometrical",
+    ],
+  },
+  {
+    question:
+      "What are some reasons that inequality exists? (check all that apply)",
+    correctAnswer:
+      "Unmanaged risks, Political power, Failure to democratize finance.",
+    propositions: [
+      "Unmanaged risks",
+      "Political power",
+      "Failure to democratize finance.",
+      "None of the above.",
+    ],
+  },
+  {
+    question:
+      "Why was the Yale portfolio primarily in bonds and other 'safe' investments?",
+    correctAnswer: "Yale was following the best practice advice of Joe McNay",
+    propositions: [
+      "Yale was following the best practice advice of Joe McNay",
+      "Yale did not want the strong variation that are common in investment",
+      "Yale had too much money for other investments",
+      "Yale did not have a portfolio manager",
+    ],
+  },
+  {
+    question: "Which of the following is NOT an example of moral hazard?",
+    correctAnswer:
+      "Not farming efficiently because farming insurance will cover the cost of a bad crop.",
+    propositions: [
+      "Lying about farming yields to collect insurance money.",
+      "Neglecting to replace smoke detector batteries when insured against fire.",
+      "Knowingly building a house in an area susceptible to floods",
+      "Not farming efficiently because farming insurance will cover the cost of a bad crop.",
+    ],
+  },
+  {
+    question:
+      "All rational investors, seeking to manage risk by optimally diversifying across a common set of different assets:",
+    correctAnswer:
+      "Ultimately earn the same return if they share the same level of risk-aversion.",
+    propositions: [
+      "Only focus on the mean of the overall portfolio.",
+      "Can ultimately hold different, fully diversified portfolios.",
+      "Are concerned about by the performance of the riskier assets once they have created the diversifying portfolio.",
+      "Ultimately earn the same return if they share the same level of risk-aversion.",
+    ],
+  },
+  {
+    question:
+      "If you want to protect the risk consisting in the fluctuations of the value of your home, you would ideally:",
+    correctAnswer: "Want to short the market for homes in your city.",
+    propositions: [
+      "Want to be long (buyer) in the market for homes in your city.",
+      "Want to stay market-neutral (neither long nor short) in the market for homes in your city.",
+      "Avoid investing in the housing market in your city.",
+      "Want to short the market for homes in your city.",
+    ],
+  },
+  {
+    question: "Regarding the Efficient Market Hypothesis:",
+    correctAnswer:
+      "It states that asset prices fully reflect all available information.",
+    propositions: [
+      "It states that asset prices fully reflect all available information.",
+      "It implies that no investor can consistently achieve higher returns than the overall market.",
+      "It suggests that market anomalies are common and persistent.",
+      "It assumes that all investors are rational and have access to the same information.",
+    ],
+  },
+  {
+    question: "What is the Federal Funds Futures Market?",
+    correctAnswer:
+      "Futures contracts created by an exchange board which are settled at the end of each month for 100 minus the federal funds rate averaged over the month.",
+    propositions: [
+      "Futures contracts created by the government which are settled at the end of each year for 100 minus the federal funds rate averaged over the month.",
+      "Futures contracts created by an exchange board which are settled at the end of each month for 100 minus the federal funds rate averaged over the month.",
+      "Futures contracts created by an exchange board which are settled at the end of each year for 100 minus the federal funds rate averaged over the month.",
+      "Futures contracts created by the government which are settled at the end of each month for 100 minus the federal funds rate averaged over the month.",
+    ],
+  },
+  {
+    question: "What are the two types of options?",
+    correctAnswer:
+      "A 'call' option is the right to buy and a 'put' option is the right to sell.",
+    propositions: [
+      "A 'call' option is the right to buy and a 'put' option is the right to sell.",
+      "A 'put' option is the right to buy and a 'call' option is the right to sell.",
+      "A 'get' option is the right to buy and a 'push' option is the right to sell.",
+      "A 'push' option is the right to buy and a 'get' option is the right to sell.",
+    ],
+  },
+  {
+    question:
+      "Why do some stock options have an exercise price which is more than the cost of the stock?",
+    correctAnswer:
+      "For 'call' options, this provides the option to buy at this price if the stock goes up before the exercise date.",
+    propositions: [
+      "New investors often mistake 'put' and 'call' options, leading to an easy profit for the dealer.",
+      "For 'call' options, this provides the option to buy at this price if the stock goes up before the exercise date.",
+      "These options are 'put' options, giving you the option to sell at a higher price.",
+      "The stock options sell for negative prices, because the investor will lose money if the stock price does not fluctuate.",
+    ],
+  },
+  {
+    question:
+      "Which of the following is NOT a behavioral reason why people buy options?",
+    correctAnswer:
+      "Portfolio managers will usually buy options for clients without them knowing so that if the stock price goes down, the manager will come across as thinking ahead and watching out for their clients.",
+    propositions: [
+      "Portfolio managers will usually buy options for clients without them knowing so that if the stock price goes down, the manager will come across as thinking ahead and watching out for their clients.",
+      "People will feel better about themselves if their stocks go down if they have purchased a put option on them, regardless of whether or not they gained or lost overall.",
+      "They are fooled by salespeople.",
+      "People will pay attention to specific aspects of their portfolio more so than others, so they will buy options when they hear about volatility in the market to protect certain components of their portfolio.",
+    ],
+  },
+  {
+    question:
+      "Are mortgages in the US similar to options from the perspective of the homeowner?",
+    correctAnswer: "No in recourse states, yes in non-recourse states.",
+    propositions: [
+      "No, because defaulting does not eliminate liability.",
+      "Yes, because people always have the option to default.",
+      "Yes, because they can be sold by banks to Fannie Mae and Freddie Mac.",
+      "No in recourse states, yes in non-recourse states.",
+    ],
+  },
+  {
+    question: "What is the put-call parity relationship?",
+    correctAnswer:
+      "A relationship between the put price, the call price, and the stock price for European-style stock options.",
+    propositions: [
+      "A relationship between the put price, the call price, and the stock price for European-style stock options.",
+      "A method of arbitrage for options exchanges.",
+      "Another name for the Black-Scholes model.",
+      "A mathematical formula specifying that the put price of an option minus the call price of an option equals the price of the stock.",
+    ],
+  },
+  {
+    question: "What is a stop-loss order?",
+    correctAnswer:
+      "An instruction to your broker indicating that they should sell your shares once it drops below some price.",
+    propositions: [
+      "An instruction to your broker indicating that they should sell your shares once it drops below some price.",
+      "A type of stock that will protect you against losing too much money on the stock market.",
+      "A type of order that will instruct your broker to buy more shares if the price rises above a certain threshold.",
+      "An order that your broker must follow to avoid paying capital gains taxes on certain transactions.",
+    ],
+  },
+  {
+    question:
+      "Which of the following is NOT an advantage of passive management?",
+    correctAnswer: "It requires frequent buying and selling of stocks.",
+    propositions: [
+      "It requires frequent buying and selling of stocks.",
+      "It involves lower fees than active management.",
+      "It tends to outperform actively managed funds over the long term.",
+      "It is based on the efficient market hypothesis, which states that asset prices fully reflect all available information.",
+    ],
+  },
 ];

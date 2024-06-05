@@ -59,6 +59,24 @@ function Home() {
         </button>
         <button
           onClick={() => {
+            sessionStorage.setItem("numberOfQuestions", 50);
+            router.push("/quiz");
+          }}
+          className="btn"
+        >
+          50
+        </button>
+        <button
+          onClick={() => {
+            sessionStorage.setItem("numberOfQuestions", 60);
+            router.push("/quiz");
+          }}
+          className="btn"
+        >
+          60
+        </button>
+        <button
+          onClick={() => {
             sessionStorage.setItem("numberOfQuestions", questions.length);
             router.push("/quiz");
           }}
